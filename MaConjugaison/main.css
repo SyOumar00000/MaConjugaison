@@ -1,0 +1,68 @@
+body{
+  background-color: #218c74;
+  color: #dff9fb;
+}
+
+body .s003{
+  margin-left: 250px;
+  background-color: #ecf0f1;
+
+}
+.s003{
+  border: 0px solid  #1abc9c;
+  border-radius: 1%;
+  height: 184px;
+  width: 800px;
+  text-align: center;
+}
+
+.selection{
+  margin-top: 1px;
+  border: 0px solid green;
+  background-color: #1abc9c;
+  color: white;
+  text-align: center;
+  height: 80px;
+  width: 98%;
+  cursor: pointer;
+  margin-bottom: 1px;
+  margin-left: 1px;
+  margin-right: 1px;
+}
+.selection:hover{
+  transition: 0.4s;
+  background-color: #27ae60;
+}
+.vac{
+  border: 0px solid green;
+  background-color: #1abc9c;
+  color: white;
+  text-align: center;
+  height: 50px;
+  width: 98%;
+  margin-bottom: 1px;
+  margin-left: 1px;
+  margin-right: 1px;
+
+}
+.vac:hover{
+  transition: 0.4s;
+  background-color: #27ae60;
+}
+.btn{
+  border: 0px solid green;
+  background-color: #27ae60;
+  color: white;
+  text-align: center;
+  height: 50px;
+  width: 98%;
+  opacity: 0.9;
+  cursor: pointer;
+  margin-bottom: 1px;
+  margin-left: 1px;
+  margin-right: 1px;
+}
+.btn:hover{
+  transition: 0.4s;
+  background-color: #218c74;
+}
